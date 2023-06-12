@@ -9,7 +9,7 @@
 - [Usage](#usage)
 - [Contribution](#contribution)
 - [Test](#test)
-- [Questions](#questions)
+- [Video](#video)
 - [License](#license)
 
 ## Description
@@ -31,8 +31,9 @@ In order to use this program the user needs to:<br>
 4. look for the newly created "logo.svg"
 
 ## Test
-
-## Questions
+![test screen shot](https://github.com/rylawss/10-SVG-Logo-Maker/assets/128633609/9af26ae9-ec5e-4caf-b3aa-11842aa1a601)
+## Video
+https://drive.google.com/file/d/1f7iCrybJSSNnLMtrqY8Zdky4g_fqFUfk/view?usp=sharing
 
 GitHub: [rylawss](https://github.com/rylawss)
 email: rylaw45@gmail.com
