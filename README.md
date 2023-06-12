@@ -7,7 +7,6 @@
 - [Description](#description)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contribution](#contribution)
 - [Test](#test)
 - [Video](#video)
 - [License](#license)
@@ -35,8 +34,6 @@ In order to use this program the user needs to:<br>
 ## Video
 https://drive.google.com/file/d/1f7iCrybJSSNnLMtrqY8Zdky4g_fqFUfk/view?usp=sharing
 
-GitHub: [rylawss](https://github.com/rylawss)
-email: rylaw45@gmail.com
 
 ## License
 
