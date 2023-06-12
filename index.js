@@ -30,7 +30,8 @@ async function init() {
       {
         type: "input",
         name: "textColor",
-        message: "What is the color of the text?",
+        message:
+          "What is the color of the text? (color keyword OR a hexadecimal number)",
       },
       {
         type: "list",
@@ -41,7 +42,8 @@ async function init() {
       {
         type: "input",
         name: "backgroundColor",
-        message: "What is the shape color?",
+        message:
+          "What is the shape color?(color keyword OR a hexadecimal number)",
       },
     ])
     .then((answers) => {
